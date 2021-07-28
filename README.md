@@ -1,1 +1,1 @@
-# Please read information.md.
+# Please read information.md
